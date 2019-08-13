@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+}
+
+body {
+    color: #333;
+    background: #EEE;
+    margin: 40px;
+    padding: 0;
+}
+
+header {
+    margin: 40px;
+}
+
+#title {
+    font-size: 75px;
+    text-align: center;
+}
